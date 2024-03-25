@@ -1,6 +1,4 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello, this is Paul.</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello, I'm Paul.</h2>
 
 <!-- ## 👋 &nbsp;Hello, this is Paul -->
 
@@ -12,8 +10,6 @@
 ✍️ &nbsp;In my free time, I enjoy pursuing graphic design and blog writing as hobbies and side hustles.\
 💬 &nbsp;Feel free to contact me if you need pro bono consulting or volunteering assistance, or even just for an interesting discussion.\
 ✉️ &nbsp;Feel free to email me at gotrusti4soft@gmail.com! I'll do my best to respond promptly.\
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
